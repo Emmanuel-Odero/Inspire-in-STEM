@@ -1,0 +1,1 @@
+#create a class that will have employee name and the employee salary

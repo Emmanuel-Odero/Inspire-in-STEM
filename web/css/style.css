@@ -1,0 +1,16 @@
+body{
+    margin: 15px;
+    background-color: azure;
+}
+/* #nav-1{
+    background-color: blue;
+    margin: 20px;
+} */
+.block{
+    color: green;
+}
+.meta-data{
+    color: red;
+    font-size: 18px;
+    font-weight: 400;
+}
